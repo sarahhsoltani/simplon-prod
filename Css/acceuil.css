@@ -125,3 +125,27 @@ margin-right: 73px;
 .envie{
 background-color: #ce0033 ;
 }
+/*-------------------section before footer  ------------------*/
+.part-one h1{
+    font-size: 20px;
+    font-weight: 900;
+    padding: 0 0 20px;
+    color: #000;
+}
+.partt-one{
+    background-color: white;
+    padding: 59px 152px 59px 44px;
+   
+}
+.partt-two{
+    background-color: #ce0033;
+    color: white;
+    padding: 59px 152px 59px 44px;
+}
+.grid{
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: 600px 600px;
+    grid-gap: 30px;
+
+}
