@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+    background: #f1f5f8 !important;
+}
+.list li {
+list-style-type: none;
+color: white;
+}
+.social-media{
+    list-style-type: none;
+
+}
+.top-nav{
+    background-color: black;
+}
+.logo{
+    width: 144px;
+    height: 56px;
+}
+.navbar{
+    background-color: black;
+}
+.navbar {
+    margin-top: -17px;
+}
+.navbar ul li a{
+    color: white !important;
+    
+}
+.social i{
+    color: #ce0033;
+}
+
+.buttons{
+    position: relative;
+  
+    margin-top: -64px;
+    text-align: center;
+}
+.buttons button{
+    text-transform: uppercase;
+}
+.image-2{
+    margin-top: 34px;
+    margin-left: -79px;
+
+}
+.title{
+    font-weight: 900;
+}
+.tittle{
+    font-weight: 900;
+}
+
+.card-ti{
+    color: #000;
+    font-size: 24px;
+    font-weight: 900;
+}
+/*------------Section 3  -------------------*/
+.title span{
+    border-bottom: 4px solid #ce0033 ;
+}
+.tittle span{
+    border-bottom: 4px solid #ce0033 ;
+}
+.impact{
+    margin-top: 90px !important;
+   
+}
+/*---------section four ---------- */
+.infos{
+    background-color: white;
+    box-shadow: 0 1px 27px rgb(0 0 0 / 60%);
+}
+.para{
+     color: #808080;
+     font-weight: 400;
+}
+.paraa{
+    color: #57575c;
+    font-weight: 500;
+}
+/*-------Section six  ----------*/
+ .opacity{
+    background-color: rgba(0, 0, 0, .7);
+    height: 60vh;
+}
+.experience{
+    background-image: url("../image/simplon9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+.opacity i{
+    color: #ce0033;
+    
+}
+.experience h4{
+    font-weight: 700;
+}
+.envie{
+background-color: #ce0033 ;
+}
